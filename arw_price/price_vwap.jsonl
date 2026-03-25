@@ -6380,7 +6380,7 @@
 {"timestamp":1774422000,"accPriceVol":320.4899672,"accVol":2085.98,"price":0.15364}
 {"timestamp":1774425600,"accPriceVol":491.82668249999995,"accVol":3167.31,"price":0.15528214241738256}
 {"timestamp":1774429200,"accPriceVol":312.27792,"accVol":2012.1,"price":0.1552}
-{"timestamp":1774432800,"accPriceVol":507.4561116,"accVol":3225.63,"price":0.15732}
+{"timestamp":1774432800,"accPriceVol":564.7832393,"accVol":3591.26,"price":0.15726604013633097}
 {"timestamp":1774436400,"accPriceVol":431.58816300000007,"accVol":2752.3,"price":0.15681}
 {"timestamp":1774440000,"accPriceVol":419.3004999,"accVol":2704.99,"price":0.15501}
 {"timestamp":1774443600,"accPriceVol":384.79835,"accVol":2482.57,"price":0.155}
@@ -6391,3 +6391,4 @@
 {"timestamp":1774461600,"accPriceVol":365.875929,"accVol":2355.93,"price":0.1553}
 {"timestamp":1774465200,"accPriceVol":606.7354917,"accVol":3914.17,"price":0.15501}
 {"timestamp":1774468800,"accPriceVol":390.6763326,"accVol":2502.09,"price":0.15614}
+{"timestamp":1774472400,"accPriceVol":445.389714,"accVol":2849.4,"price":0.15631}
